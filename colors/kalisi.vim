@@ -231,7 +231,7 @@ if &background == "dark"
 
   " 256 Color Terminal (dark) ##################################################
   if &t_Co > 255
-    hi Normal ctermbg=238 ctermfg=252
+    hi Normal ctermbg=235 ctermfg=252
     hi CursorLine ctermbg=239 term=none cterm=none
     hi CursorColumn ctermbg=239
     hi NonText ctermbg=237 ctermfg=102
